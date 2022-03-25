@@ -15,6 +15,10 @@ public class RestAPI {
 	{
 		System.out.println("DeleteTwitter");
 		System.out.println("GITHUB");
+		System.out.println("develop");
+		System.out.println("branch");
+		System.out.println("GITHUB");
+		System.out.println("GITHUB");
 	}
 
 }
