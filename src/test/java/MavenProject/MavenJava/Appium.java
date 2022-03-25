@@ -9,11 +9,13 @@ public class Appium {
 	public void NativeAppAndroid()
 	{
 System.out.println("NativeAppAndroid");
+System.out.println("NativeAppAndroidGITHUB");
 	}
 	@Test 
 	public void IOSApps()
 	{
 		System.out.println("IOSApps");
+		System.out.println("GITHUB");
 	}
 	
 
